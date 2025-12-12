@@ -1,0 +1,10 @@
+export * from "@/pages/dashboard/home";
+export * from "@/pages/dashboard/profile";
+export * from "@/pages/dashboard/tables";
+export * from "@/pages/dashboard/notifications";
+export { default as TestComponent } from "./TestComponent";
+export * from "@/pages/dashboard/Hello";
+export * from "@/pages/dashboard/ScanHistory";
+export { default as PointsGarbage } from "./PointsGarbage";
+export { default as WasteScheduleManager } from "./WasteScheduleManager";
+export { default as ScanHistory } from "./ScanHistory";
